@@ -7,7 +7,7 @@ Executable file available: `Air Raid.exe'
 Download Project.gmk (Game Maker 8 file) to debug and edit.
 
 ## In-game Control Instructions
-###Basic Controls
+### Basic Controls
 ```
 - SPACE -> Shoot Bullets
 - ARROW Up -> Raise altitude
@@ -16,10 +16,14 @@ Download Project.gmk (Game Maker 8 file) to debug and edit.
 - ARROW Left -> Decelerate 
 ```
 
-###Ability (Available after ability capsule is consumed)
+### Ability (Available after ability capsule is consumed)
 ```
 CONTROL - Charged Beam (High Damage Attack with Cooldown)
 B - Barrier (Defend Against All Incoming Attacks for a duration of time)
 ```
 
-
+### Saving and Loading Game (In-game)
+```
+S - Save Game
+L - Load Game
+```
