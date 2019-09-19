@@ -4,7 +4,7 @@ A horizontal scroll shooting game developed as a side project in Game Maker 8 Pr
 ## Installation Instructions
 Executable file available: `Air Raid.exe`
 <br />
-Download Project.gmk (Game Maker 8 file) to debug and edit.
+Download Project.gmk (Game Maker 8 file) to debug and edit.<br/>
 See `Airaid.png` for preview.
 
 ## In-game Control Instructions
