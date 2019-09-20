@@ -7,7 +7,7 @@ See `Airaid.png` for preview.
 ## Installation Instructions
 Executable file available: `Air Raid.exe`
 <br />
-Download Project.gmk (Game Maker 8 file) to debug and edit.<br/>
+Scripts available in Project.gmk (Game Maker 8 file). Download to debug and edit.<br/>
 
 
 ## In-game Control Instructions
