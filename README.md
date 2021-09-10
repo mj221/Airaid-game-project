@@ -1,5 +1,5 @@
 # Airaid-project
-A horizontal scroll shooting game developed as a side project in Game Maker 8 Pro
+A horizontal scroll shooting game developed as a hobby project in Game Maker 8 Pro
 <br/>
 See `Airaid.png` for preview.
 ![Airaid Preview](Airaid.png)
